@@ -1,16 +1,20 @@
-### Hi there 👋
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Hi! I'm Martysh12, a software developer from Israel 👨‍💻.
+### What am I good at?
+```
+- Python: 🟢
+- Lua:    🟡
+- NodeJS: 🟠
+- C++:    🟠
+```
 
-<!--
-**Martysh12/Martysh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some stats...
+![Profile statistics](https://github-readme-stats.vercel.app/api?username=Martysh12&theme=nightowl&count_private=true&show_icons=true)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martysh12&theme=nightowl&layout=compact)
 
-Here are some ideas to get you started:
+Contact me through Discord! `Martysh12#1610`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Fun fact: I started coding when I was 11.

@@ -9,6 +9,8 @@
 - Lua:    🟡
 - NodeJS: 🟠
 - C++:    🟠
+
+- The dark magic of doing things correctly the first time: 🟢
 ```
 
 ## Some stats...

@@ -10,7 +10,7 @@
 - NodeJS: 🟠
 - C++:    🟠
 
-- The dark magic of doing things correctly the first time: 🟢
+- The dark art of doing things correctly the first time: 🟢
 ```
 
 ## Some stats...

@@ -19,4 +19,4 @@
 
 Contact me through Discord! `Martysh12#1610`
 
-✨ Fun fact: I started coding when I was 11.
+**✨ Fun fact:** I started coding when I was 11.

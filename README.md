@@ -7,12 +7,16 @@
 </p>
 
 ## Hi! I'm Martysh12, a software developer from Israel 👨‍💻.
-### What am I good at?
+### About me...
+Hello there! My name is Martin.  
+I'm a recreational programmer from Israel, that has an interest in software development and embedded systems.
+
+**Here are some things I'm good at...**
 ```
-- Python: 🟢
-- Lua:    🟡
-- NodeJS: 🟠
-- C++:    🟠
+- Python: 🟢 (very good)
+- Lua:    🟡 (not the best)
+- NodeJS: 🟠 (room for improvement)
+- C++:    🟠 (i have no idea what im doing)
 
 - The dark art of doing things correctly the first time: 🟢
 ```
@@ -20,13 +24,8 @@
 ## Some stats...
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Martysh12&theme=nightowl&count_private=true&show_icons=true">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martysh12&theme=nightowl&layout=compact">
 </p>
 
 ## Contact me!
 Contact me through Discord! `Martysh12#1610`
-
-<br>
-
-**✨ Fun fact:** I started coding when I was 11.

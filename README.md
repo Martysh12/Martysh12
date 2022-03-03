@@ -1,10 +1,4 @@
-# ☮ 🕊
-<br>
-
 ### Praying for the protection of Ukranian citizens
-### Writing programs that help
-<br>
-
 -----
 
 <p align="center">
@@ -14,26 +8,22 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-## Hi! I'm Martysh12, a software developer from Israel 👨‍💻.
-### About me...
+## Hi
 Hello there! My name is Martin.  
-I'm a recreational programmer from Israel, that has an interest in software development and embedded systems.
+I'm a programmer from Israel, that has an interest in software development, embedded systems and ethical hacking.
 
-**Here are some things I'm good at...**
-```
-- Python: 🟢 (very good)
-- Lua:    🟡 (not the best)
-- NodeJS: 🟠 (room for improvement)
-- C++:    🟠 (i have no idea what im doing)
+### Knowledge:
+- Python
+- Lua
+- C
+- C++
+- NodeJS
 
-- The dark art of doing things correctly the first time: 🟢
-```
-
-## Some stats...
+### Some stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Martysh12&theme=nightowl&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martysh12&theme=nightowl&layout=compact">
 </p>
 
-## Contact me!
-Contact me through Discord! `Martysh12#1610`
+### Contact me!
+Contact me through Discord: `Martysh12#1610`

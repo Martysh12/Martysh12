@@ -17,6 +17,7 @@ I'm a programmer from Israel, that has an interest in software development, embe
 - 🟢 Lua
 - 🟠 C
 - 🟡 C++
+- 🟠 C#
 - 🟡 NodeJS
 
 ### Some stats

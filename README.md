@@ -15,7 +15,7 @@ I'm a programmer from Israel, that has an interest in software development, embe
 ### Knowledge:
 - 🟢 Python
 - 🟢 Lua
-- 🟠 C
+- 🟡 C
 - 🟡 C++
 - 🟠 C#
 - 🟡 NodeJS

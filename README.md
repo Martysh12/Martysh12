@@ -20,11 +20,5 @@ I'm a programmer from Israel, that has an interest in software development, embe
 - 🟠 C#
 - 🟡 NodeJS
 
-### Some stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martysh12&theme=nightowl&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martysh12&theme=nightowl&layout=compact">
-</p>
-
 ### Contact me!
 Contact me through Discord: `Martysh12#1610`
